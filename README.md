@@ -1,3 +1,5 @@
+*This repository has been archived. Starting with Xubuntu 24.04 "Noble Numbat," the installer slides can be found in [xubuntu-default-settings](https://github.com/Xubuntu/xubuntu-default-settings/tree/master/debian/live/desktop-provision).*
+
 # ubiquity-slideshow-ubuntu
 
 <http://launchpad.net/ubiquity-slideshow-ubuntu>
